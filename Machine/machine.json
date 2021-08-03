@@ -1,0 +1,10 @@
+{
+  "machine": [
+    {
+      "machineId": "1",
+      "destination": "مدينة نصر",
+      "militaryPrice": 3.00,
+      "civilianPrice": 6.00
+    }
+  ]
+}
