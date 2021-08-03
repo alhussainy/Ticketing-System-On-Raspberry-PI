@@ -1,0 +1,31 @@
+{
+	"USB":[
+		{
+		"vendorId": "********",
+		"productId": "********",
+		"securityLevel": "admin",
+		"userId":"1",
+        "iSerialNumber":"********"
+		},
+		{"vendorId": "********",
+		"productId": "********",
+        "securityLevel": "update",
+		"userId":"2",
+        "iSerialNumber":"********"
+		},
+		{
+		"vendorId": "********",
+		"productId": "********",
+		"securityLevel": "takfeel",
+		"userId":"3",
+                "iSerialNumber":"********"
+		},
+		{
+		"vendorId": "********",
+		"productId": "********",
+		"securityLevel": "watch",
+		"userId":"4",
+        "iSerialNumber":"********"
+		}
+	]
+}
